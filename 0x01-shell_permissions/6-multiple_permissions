@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 744 devops.txt hello
+chmod ug+x, o+r hello
