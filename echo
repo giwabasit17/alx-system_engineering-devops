@@ -1,0 +1,16 @@
+0x00-shell_basics
+0x01-shell_permissions
+0x02-shell_redirections
+0x03-shell_variables_expansions
+echo
+README.md
+total 24
+drwxr-xr-x 7 root root  172 Oct 18 17:27 .
+drwxr-xr-x 1 root root  266 Oct 17 06:26 ..
+drwxr-xr-x 2 root root 4096 Oct 15 15:08 0x00-shell_basics
+drwxr-xr-x 2 root root 4096 Oct 15 15:08 0x01-shell_permissions
+drwxr-xr-x 2 root root 4096 Oct 15 15:08 0x02-shell_redirections
+drwxr-xr-x 2 root root 4096 Oct 15 15:08 0x03-shell_variables_expansions
+-rw-r--r-- 1 root root  112 Oct 18 17:27 echo
+drwxr-xr-x 8 root root  163 Oct 15 15:08 .git
+-rw-r--r-- 1 root root   12 Oct 15 15:08 README.md
