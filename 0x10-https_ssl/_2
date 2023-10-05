@@ -39,7 +39,7 @@ frontend ssl_443
          reqadd X-Forwarded-Proto:\ https
          default_backend web_servers
 
-frontend Gabi_Gramz.tech
+frontend sammyking.tech
         bind 0:80
         reqadd X-Forwarded-Proto:\ http
         redirect scheme https code 301 if !{ ssl_fc }
